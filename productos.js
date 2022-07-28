@@ -1,0 +1,16 @@
+const productos = [
+    {id:1, title: "Hamburguesa Simple", precio: 700, img:"./imagenes/hsimple.webp"},
+    {id:2, title: "Hamburguesa Doble", precio: 900, img:"./imagenes/hdoble.jpg"},
+    {id:3, title: "Hamburguesa Veggie", precio: 750, img:"./imagenes/hveggie.webp"},
+    {id:4, title: "Papas Fritas", precio: 400, img:""},
+    {id:5, title: "Batatas Fritas", precio: 400},
+    {id:6, title: "Aros de Cebolla", precio: 350},
+    {id:7, title: "Cheddar", precio: 150},
+    {id:8, title: "Queso", precio: 150},
+    {id:9, title: "Panceta", precio: 150},
+    {id:10, title: "Coca Cola", precio: 200},
+    {id:11, title: "Agua", precio: 150},
+    {id:12, title: "Cerveza", precio: 300},
+    {id:13, title: "Helado", precio: 400},
+    {id:13, title: "Cafe", precio: 400},
+];
